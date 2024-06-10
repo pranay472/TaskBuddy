@@ -1,4 +1,5 @@
 ->enter npm i in terminal
+->Refer the data.sql file in server directory to create tables in pgSQL
 
 Steps to start react app:
 1)cd client 
